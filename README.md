@@ -11,3 +11,7 @@ We use a library called Tesseract which performs the task of OCR
 2. extract the content
 3. and there will be a executable file called Text_to_image just run it .
 4. To demonstrate how this project works and to show the logic there is another jupyter notebook file "Image to text(OCR).ipynb" use it understand about the project.
+
+# Dependencies:
+1. you need python version > 3.x
+2. Tesseract library and you must mention the tesseract path in the path file of the zip file downloaded
